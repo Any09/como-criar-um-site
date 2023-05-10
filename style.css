@@ -6,8 +6,10 @@ margin: 0px
 height: 250px
 
 }
-<header <h1 class=".título-corpo">
-        {
-            <display:flex;>
-        <justify-content:center>
+.título-corpo{
+    display:flex;
+    justify-content:center   
+}
+
+            
         
